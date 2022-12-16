@@ -94,7 +94,7 @@ npx eslint .
 
 - GitHub: [@SaboorSohaib](https://github.com/SaboorSohaib)
 - Twitter: [@Absaboorsohaib](https://twitter.com/Absaboorsohaib)
-- LinkedIn: [Abdul Saboor Sohaib](https://www.linkedin.com/in/abdul-saboor-sohaib-b5b566244/)
+- LinkedIn: [Abdul Saboor Sohaib](https://www.linkedin.com/in/abdul-saboor-sohaib/)
 
 ## Credits
 
